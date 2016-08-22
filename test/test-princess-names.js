@@ -5,8 +5,8 @@
   var princessNames = require('../src/lib/index.js');
 
   describe('princess-names', function(){
-    it('should contains at least 2 items', function(){
-      var enoughNames = Object.keys(princessNames.all).length > 1;
+    it('should contains at least 10 items', function(){
+      var enoughNames = Object.keys(princessNames.all).length > 9;
       enoughNames.should.equal(true);
     });
 
@@ -17,9 +17,9 @@
       enoughLength.should.equal(true);
     });
 
-    it('should return Lana', function(){
+    it('should return Ashe', function(){
       var allNames = princessNames.all;
-      should.equal(allNames[0], 'Lana');
+      should.equal(allNames[0], 'Ashe');
     });
 
     it('should return undefined', function(){
