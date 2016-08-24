@@ -17,9 +17,9 @@
       enoughLength.should.equal(true);
     });
 
-    it('should return Ashe', function(){
+    it('should return Aire', function(){
       var allNames = princessNames.all;
-      should.equal(allNames[0], 'Ashe');
+      should.equal(allNames[0], 'Aire');
     });
 
     it('should return undefined', function(){

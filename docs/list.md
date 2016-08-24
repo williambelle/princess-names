@@ -1,18 +1,28 @@
 Video Games
 -----------
 
+  - Princess Aire: *Final Fantasy: The 4 Heroes of Light*
+  - Princess Alena: *Dragon Quest IV: Chapters of the Chosen*
   - Princess Ashe: *Final Fantasy XII*
   - Princess Daisy: *Super Mario Land*
   - Princess Daphne: *Dragon's Lair*
+  - Princess Eirika: *Fire Emblem: The Sacred Stones*
+  - Princess Elena: *Street Fighter*
   - Princess Elise: *Sonic the Hedgehog*
-  - Princess Hilda: *The Legend of Zelda: A Link Between Worlds*
   - Princess Farah: *Prince of Persia: The Sands of Time*
+  - Princess Guinivere: *Fire Emblem: The Binding Blade*
+  - Princess Gutrune: *Etrian Odyssey III: The Drowned City*
+  - Princess Hellene: *Fire Emblem: The Binding Blade*
+  - Princess Hilda: *The Legend of Zelda: A Link Between Worlds*
   - Princess Kitana: *Mortal Kombat*
+  - Princess Kasumi: *Dead or Alive*
   - Princess Lana: *Castlevania*
+  - Princess Lucina: *Fire Emblem: Awakening*
   - Princess Midna: *The Legend of Zelda: Twilight Princess*
   - Princess Peach: *Super Mario Bros*
   - Princess Rosalina: *Super Mario Galaxy*
   - Princess Ruto: *The Legend of Zelda: Ocarina of Time*
   - Princess Sakuya: *Ōkami*
+  - Princess Sue: *Fire Emblem: The Binding Blade*
   - Princess Tomato: *Princess Tomato in the Salad Kingdom*
   - Princess Zelda: *The Legend of Zelda*
