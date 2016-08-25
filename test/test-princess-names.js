@@ -12,7 +12,7 @@
 
     it('should return a princess name', function(){
       var princess = princessNames.random();
-      var enoughLength = princess.length > 3;
+      var enoughLength = princess.length > 2;
       princess.should.be.a('string');
       enoughLength.should.equal(true);
     });
