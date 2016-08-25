@@ -1,9 +1,9 @@
 Princess Names
 ==============
 
-[![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][gemnasium-image]][gemnasium-url]
+[![NPM version][npm-image]][npm-url]
 
 
 Get popular Princess names
