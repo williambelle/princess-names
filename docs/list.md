@@ -1,3 +1,17 @@
+Anime
+-----
+
+  - Princess Allura: *Voltron*
+  - Princess Azula: *Avatar: The Last Airbender*
+  - Princess Bubblegum: *Adventure Time*
+  - Princess Calla: *Adventures of the Gummi Bears*
+  - Princess Eri: *Chinpui*
+  - Princess Katharine: *Gargoyles*
+  - Princess Loretta: *The Big Knights*
+  - Princess Lucy: *The Big Knights*
+  - Princess Marie: *Adventures of the Gummi Bears*
+  - Princess Yue: *Avatar: The Last Airbender*
+
 Video Games
 -----------
 
