@@ -1,15 +1,25 @@
 Anime
 -----
 
+  - Princess Adora: *She-Ra: Princess of Power*
   - Princess Allura: *Voltron*
+  - Princess Amelia: *Slayers*
   - Princess Azula: *Avatar: The Last Airbender*
+  - Princess Baldegunde: *Phineas and Ferb*
   - Princess Bubblegum: *Adventure Time*
+  - Princess Cadance: *My Little Pony*
   - Princess Calla: *Adventures of the Gummi Bears*
+  - Princess Demurra: *Wander Over Yonder*
   - Princess Eri: *Chinpui*
+  - Princess Fala: *Voltron*
   - Princess Katharine: *Gargoyles*
+  - Princess Gwenevere: *Princess Gwenevere and the Jewel Riders*
   - Princess Loretta: *The Big Knights*
   - Princess Lucy: *The Big Knights*
   - Princess Marie: *Adventures of the Gummi Bears*
+  - Princess Shalala: *Time Travel Tondekeman*
+  - Princess Sisi: *Princess Sisi*
+  - Princess Tomoyo: *Tsubasa Chronicle the Movie*
   - Princess Yue: *Avatar: The Last Airbender*
 
 Video Games

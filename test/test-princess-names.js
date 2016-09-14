@@ -19,7 +19,7 @@
 
     it('should return Aire', function(){
       var allNames = princessNames.all;
-      should.equal(allNames[0], 'Aire');
+      should.equal(allNames[0], 'Adora');
     });
 
     it('should return undefined', function(){
