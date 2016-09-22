@@ -22,6 +22,20 @@ Anime
   - Princess Tomoyo: *Tsubasa Chronicle the Movie*
   - Princess Yue: *Avatar: The Last Airbender*
 
+Movie
+-----
+
+  - Princess Aouda: *Around the World in 80 Days*
+  - Princess Diana: *Hercules and the Princess of Troy*
+  - Princess Galadriel: *Lord of the Rings*
+  - Princess Kyra: *Dragons: Fire and Ice*
+  - Princess Lauranna: *Men in Black II*
+  - Princess Leia: *Star Wars*
+  - Princess Lily: *Legend*
+  - Princess Maria: *Princess O'Rourke*
+  - Princess Padmé: *Star Wars*
+  - Princess Tamina: *Prince of Persia: The Sands of Time*
+
 Video Games
 -----------
 
