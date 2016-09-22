@@ -1,6 +1,10 @@
 Princess Names Changelog
 ========================
 
+### v0.0.5 / 2016-09-22
+
+ - Add movie princess
+
 ### v0.0.4 / 2016-09-14
 
  - Add more anime princess
