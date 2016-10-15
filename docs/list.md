@@ -14,6 +14,7 @@ Anime
   - Princess Fala: *Voltron*
   - Princess Katharine: *Gargoyles*
   - Princess Gwenevere: *Princess Gwenevere and the Jewel Riders*
+  - Princess Jasmine: *Aladdin*
   - Princess Loretta: *The Big Knights*
   - Princess Lucy: *The Big Knights*
   - Princess Marie: *Adventures of the Gummi Bears*
@@ -22,9 +23,22 @@ Anime
   - Princess Tomoyo: *Tsubasa Chronicle the Movie*
   - Princess Yue: *Avatar: The Last Airbender*
 
+Literature
+----------
+
+  - Princess Alianora: *Enchanted Forest Chronicles*
+  - Princess Cimorene: *Enchanted Forest Chronicles*
+  - Princess Dianidra: *"The Princess Who Could Not Dance"*
+  - Princess Ida: *"The Princess"*
+  - Princess Katya: *The Magic Nesting Doll*
+  - Princess Miranda: *The Tempest*
+  - Princess Serena: *"Ancilotto, King of Provino"*
+  - Princess Zita: *The Thirteenth Princess*
+
 Movie
 -----
 
+  - Princess Anna: *King Ralph*
   - Princess Aouda: *Around the World in 80 Days*
   - Princess Diana: *Hercules and the Princess of Troy*
   - Princess Galadriel: *Lord of the Rings*
