@@ -1,6 +1,11 @@
 Princess Names Changelog
 ========================
 
+### v0.0.7 / 2016-10-22
+
+ - Add more names
+ - Update dependencies
+
 ### v0.0.6 / 2016-10-17
 
  - Add more names
