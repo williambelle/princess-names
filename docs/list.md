@@ -29,15 +29,20 @@ Literature
   - Princess Alianora: *Enchanted Forest Chronicles*
   - Princess Annie: *The Wide-Awake Princess*
   - Princess Ariel: *The Little Mermaid*
+  - Princess Chalice: *Dune*
   - Princess Cimorene: *Enchanted Forest Chronicles*
   - Princess Dianidra: *"The Princess Who Could Not Dance"*
   - Princess Elisa: *The Girl of Fire and Thorns*
   - Princess Gwen: *The Wide-Awake Princess*
   - Princess Ida: *"The Princess"*
+  - Princess Irulan: *Dune*
+  - Princess Josifa: *Dune*
   - Princess Katya: *The Magic Nesting Doll*
   - Princess Margaret: *The Runaway Princess*
   - Princess Miranda: *The Tempest*
+  - Princess Rugi: *Dune*
   - Princess Serena: *"Ancilotto, King of Provino"*
+  - Princess Wensicia: *Dune*
   - Princess Zita: *The Thirteenth Princess*
 
 Movie
