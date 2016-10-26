@@ -1,6 +1,10 @@
 Princess Names Changelog
 ========================
 
+### v0.0.8 / 2016-10-26
+
+ - Add Dune princess
+
 ### v0.0.7 / 2016-10-22
 
  - Add more names
