@@ -28,10 +28,13 @@ Literature
 
   - Princess Alianora: *Enchanted Forest Chronicles*
   - Princess Annie: *The Wide-Awake Princess*
+  - Princess Arianne: *A Song of Ice and Fire*
   - Princess Ariel: *The Little Mermaid*
   - Princess Chalice: *Dune*
   - Princess Cimorene: *Enchanted Forest Chronicles*
+  - Princess Daenerys: *A Song of Ice and Fire*
   - Princess Dianidra: *"The Princess Who Could Not Dance"*
+  - Princess Elia: *A Song of Ice and Fire*
   - Princess Elisa: *The Girl of Fire and Thorns*
   - Princess Gwen: *The Wide-Awake Princess*
   - Princess Ida: *"The Princess"*
@@ -40,6 +43,8 @@ Literature
   - Princess Katya: *The Magic Nesting Doll*
   - Princess Margaret: *The Runaway Princess*
   - Princess Miranda: *The Tempest*
+  - Princess Myrcella: *A Song of Ice and Fire*
+  - Princess Rhaenys: *A Song of Ice and Fire*
   - Princess Rugi: *Dune*
   - Princess Serena: *"Ancilotto, King of Provino"*
   - Princess Wensicia: *Dune*
