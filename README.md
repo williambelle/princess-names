@@ -2,6 +2,7 @@ Princess Names
 ==============
 
 [![Build Status][travis-image]][travis-url]
+[![Coverage Status][coveralls-image]][coveralls-url]
 [![Dependency Status][gemnasium-image]][gemnasium-url]
 [![NPM version][npm-image]][npm-url]
 
@@ -68,5 +69,7 @@ Copyright (c) 2016 William Belle
 [npm-url]: https://www.npmjs.com/package/princess-names
 [travis-image]: https://travis-ci.org/williambelle/princess-names.svg?branch=master
 [travis-url]: https://travis-ci.org/williambelle/princess-names
+[coveralls-image]: https://coveralls.io/repos/github/williambelle/princess-names/badge.svg
+[coveralls-url]: https://coveralls.io/github/williambelle/princess-names
 [gemnasium-image]: https://gemnasium.com/badges/github.com/williambelle/princess-names.svg
 [gemnasium-url]: https://gemnasium.com/github.com/williambelle/princess-names
