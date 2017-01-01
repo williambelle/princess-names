@@ -28,4 +28,16 @@
     });
   });
 
+  var rewire   = require("rewire");
+  var pNRewire = rewire('../src/lib/index.js');
+
+  describe('princess-names-rewire', function(){
+    it('should throw an exception', function(){
+      (function() {
+        pNRewire.__set__('princessNames', {});
+        pNRewire.random();
+      }).should.throw('Expected an array');
+    });
+  });
+
 })();
