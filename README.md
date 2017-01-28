@@ -23,6 +23,7 @@ Usage
 var princessNames = require('princess-names');
 
 princessNames.random();
+//=> 'Zelda'
 ```
 
 API
@@ -32,7 +33,7 @@ API
 
 Type: `array`
 
-Get all Princess names
+Get all Princess names.
 
 ### .random()
 
@@ -61,9 +62,7 @@ Options:
 License
 -------
 
-MIT License
-
-Copyright (c) 2016 William Belle
+The MIT License (MIT)
 
 [npm-image]: https://img.shields.io/npm/v/princess-names.svg
 [npm-url]: https://www.npmjs.com/package/princess-names
