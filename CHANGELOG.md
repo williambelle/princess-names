@@ -1,6 +1,10 @@
 Princess Names Changelog
 ========================
 
+### v1.0.1 / 2017-03-05
+
+ - Update yargs dependency
+
 ### v1.0.0 / 2016-10-29
 
  - Add GoT princess
