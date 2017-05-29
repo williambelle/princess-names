@@ -23,10 +23,10 @@
     "coveralls": "npm run coverage -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "istanbul": "^0.4.5",
     "jshint": "~2.9.4",
-    "mocha": "^3.4.1",
+    "mocha": "^3.4.2",
     "rewire": "^2.5.2"
   },
   "dependencies": {
