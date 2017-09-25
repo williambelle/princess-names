@@ -1,48 +1,52 @@
-Princess Names Changelog
-========================
+Changelog
+=========
+
+### v1.0.3 / 2017-09-25
+
+  - Update dependencies
 
 ### v1.0.2 / 2017-05-20
 
- - Update dependencies
+  - Update dependencies
 
 ### v1.0.1 / 2017-03-05
 
- - Update yargs dependency
+  - Update yargs dependency
 
 ### v1.0.0 / 2016-10-29
 
- - Add GoT princess
+  - Add GoT princess
 
 ### v0.0.8 / 2016-10-26
 
- - Add Dune princess
+  - Add Dune princess
 
 ### v0.0.7 / 2016-10-22
 
- - Add more names
- - Update dependencies
+  - Add more names
+  - Update dependencies
 
 ### v0.0.6 / 2016-10-17
 
- - Add more names
- - Update dependencies
+  - Add more names
+  - Update dependencies
 
 ### v0.0.5 / 2016-09-22
 
- - Add movie princess
+  - Add movie princess
 
 ### v0.0.4 / 2016-09-14
 
- - Add more anime princess
+  - Add more anime princess
 
 ### v0.0.3 / 2016-09-04
 
- - Add anime princess
+  - Add anime princess
 
 ### v0.0.2 / 2016-08-26
 
- - Add more names
+  - Add more names
 
 ### v0.0.1 / 2016-08-22
 
- - First version, released on an unsuspecting world.
+  - First version, released on an unsuspecting world.
