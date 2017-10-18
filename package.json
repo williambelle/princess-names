@@ -11,6 +11,9 @@
   "author": "William Belle <william.belle@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/williambelle/princess-names.git",
+  "engines": {
+    "node": ">=4"
+  },
   "bin": "src/bin/cli.js",
   "files": [
     "src/lib/index.js",
