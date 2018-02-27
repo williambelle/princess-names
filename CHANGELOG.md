@@ -1,7 +1,7 @@
 Changelog
 =========
 
-### v1.0.4 / 2017-09-27
+### v1.0.4 / 2018-02-27
 
   - Update dependencies
 
