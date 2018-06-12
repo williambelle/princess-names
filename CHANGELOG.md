@@ -1,6 +1,13 @@
 Changelog
 =========
 
+### v1.1.0 / 2018-06-12
+
+  - Move to eslint
+  - Move to david-dm
+  - Disable `package-lock.json`
+  - Update dependencies
+
 ### v1.0.4 / 2018-02-27
 
   - Update dependencies
