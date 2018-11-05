@@ -4,8 +4,8 @@
 
 var yargs = require('yargs')
   .usage('Usage: $0 [--random] [--all] [-?, --help]')
-  .option('random', {describe: 'Random princess name'})
-  .option('all', {describe: 'All princess names'})
+  .option('random', { describe: 'Random princess name' })
+  .option('all', { describe: 'All princess names' })
   .help('?')
   .alias('?', 'help');
 
