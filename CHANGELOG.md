@@ -1,6 +1,13 @@
 Changelog
 =========
 
+### v2.0.0 / 2018-11-09
+
+  - Drop support for Node < 6
+  - Update dependencies
+  - Add `CONTRIBUTING.md`
+  - Fix main path in `package.json`
+
 ### v1.1.0 / 2018-06-12
 
   - Move to eslint
