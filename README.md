@@ -1,4 +1,4 @@
-Princess Names
+princess-names
 ==============
 
 [![Build Status][travis-image]][travis-url]
@@ -6,28 +6,50 @@ Princess Names
 [![Dependency Status][daviddm-image]][daviddm-url]
 [![NPM version][npm-image]][npm-url]
 
-
 Get popular Princess names
 
-Install
--------
+Command Line
+------------
+
+### Install
+
+Install this globally and you'll have access to the `princess-names` command
+anywhere on your system.
 
 ```bash
-$ npm install --save princess-names
+npm i princess-names -g
 ```
 
-Usage
------
+### Usage
 
-```js
-var princessNames = require('princess-names');
+```console
+princess-names
+Usage: princess-names [--random] [--all] [-?, --help]
 
-princessNames.random();
-//=> 'Zelda'
+Options:
+  --version   Show version number                      [boolean]
+  --random    Random princess name
+  --all       All princess names
+  -?, --help  Show help                                [boolean]
 ```
 
 API
 ---
+
+### Install
+
+```bash
+npm i princess-names --save 
+```
+
+### Usage
+
+```javascript
+var princessNames = require('princess-names');
+
+console.log(princessNames.random());
+console.log(princessNames.all.join('\n'));
+```
 
 ### .all
 
@@ -41,23 +63,17 @@ Type: `function`
 
 Random Princess name.
 
-Command Line
+Contributing
 ------------
 
-```bash
-$ npm install -g princess-names
-```
+Contributions are always welcome.
 
-```bash
-$ princess-names --help
+See [Contributing](CONTRIBUTING.md).
 
-Usage: princess-names [--random] [--all] [-?, --help]
+Developer
+---------
 
-Options:
-  --random    Random princess name
-  --all       All princess names
-  -?, --help  Show help
-```
+  * [William Belle](https://github.com/williambelle)
 
 License
 -------
