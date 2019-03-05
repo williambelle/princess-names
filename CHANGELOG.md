@@ -1,6 +1,10 @@
 Changelog
 =========
 
+### v2.0.1 / 2018-03-05
+
+  - Update dependencies  
+
 ### v2.0.0 / 2018-11-09
 
   - Drop support for Node < 6
