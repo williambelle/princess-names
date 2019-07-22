@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": "https://github.com/williambelle/princess-names.git",
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "main": "src/lib/index.js",
   "bin": "src/bin/cli.js",
