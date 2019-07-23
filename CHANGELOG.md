@@ -1,9 +1,17 @@
 Changelog
 =========
 
+### v3.0.0 / 2019-07-23
+
+  - Drop support for Node < 8
+  - Move from `istanbul` to `nyc` for code coverage
+  - Update dev dependencies
+  - Test against Node.js 12
+  - Clean documentation
+
 ### v2.0.1 / 2019-03-05
 
-  - Update dependencies  
+  - Update dependencies
 
 ### v2.0.0 / 2018-11-09
 
