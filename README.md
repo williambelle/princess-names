@@ -3,10 +3,10 @@ princess-names
 
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
-[![Dependency Status][daviddm-image]][daviddm-url]
+[![Dependencies Status][daviddm-image]][daviddm-url]
 [![NPM version][npm-image]][npm-url]
 
-Get popular Princess names
+Get popular Princess names.
 
 Command Line
 ------------
