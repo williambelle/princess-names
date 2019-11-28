@@ -1,6 +1,11 @@
 Changelog
 =========
 
+### v3.0.1 / 2019-11-28
+
+  - Update dependencies
+  - Test against Node.js 13
+
 ### v3.0.0 / 2019-07-23
 
   - Drop support for Node < 8
