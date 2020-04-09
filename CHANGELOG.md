@@ -1,6 +1,10 @@
 Changelog
 =========
 
+### v3.0.2 / 2020-04-09
+
+  - Update dependencies
+
 ### v3.0.1 / 2019-11-28
 
   - Update dependencies
