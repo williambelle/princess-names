@@ -1,7 +1,7 @@
 princess-names
 ==============
 
-[![Build Status][travis-image]][travis-url]
+[![Build Status][github-actions-image]][github-actions-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 [![Dependencies Status][daviddm-image]][daviddm-url]
 [![NPM version][npm-image]][npm-url]
@@ -82,8 +82,8 @@ The MIT License (MIT)
 
 [npm-image]: https://img.shields.io/npm/v/princess-names.svg
 [npm-url]: https://www.npmjs.com/package/princess-names
-[travis-image]: https://travis-ci.org/williambelle/princess-names.svg?branch=master
-[travis-url]: https://travis-ci.org/williambelle/princess-names
+[github-actions-image]: https://github.com/williambelle/princess-names/workflows/Build/badge.svg
+[github-actions-url]: https://github.com/williambelle/princess-names/actions
 [coveralls-image]: https://coveralls.io/repos/github/williambelle/princess-names/badge.svg
 [coveralls-url]: https://coveralls.io/github/williambelle/princess-names
 [daviddm-image]: https://david-dm.org/williambelle/princess-names/status.svg
