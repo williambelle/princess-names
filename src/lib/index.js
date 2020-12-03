@@ -1,8 +1,8 @@
 'use strict';
 
-var princessNames = require('./princess-names.json');
+const princessNames = require('./princess-names.json');
 
-var randomItem = function (arr) {
+const randomItem = function (arr) {
   if (!Array.isArray(arr)) {
     throw new TypeError('Expected an array');
   }

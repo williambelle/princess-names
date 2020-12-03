@@ -2,16 +2,16 @@
 
 'use strict';
 
-var yargs = require('yargs')
+const yargs = require('yargs')
   .usage('Usage: $0 [--random] [--all] [-?, --help]')
   .option('random', { describe: 'Random princess name' })
   .option('all', { describe: 'All princess names' })
   .help('?')
   .alias('?', 'help');
 
-var argv = yargs.argv;
+const argv = yargs.argv;
 
-var princessNames = require('../lib/index.js');
+const princessNames = require('../lib/index.js');
 
 if (argv.random) {
   console.log(princessNames.random());
