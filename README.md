@@ -33,19 +33,21 @@ Options:
   -?, --help  Show help                                [boolean]
 ```
 
+See [docs/list.md](docs/list.md)
+
 API
 ---
 
 ### Install
 
 ```bash
-npm i princess-names --save 
+npm i princess-names
 ```
 
 ### Usage
 
 ```javascript
-var princessNames = require('princess-names');
+const princessNames = require('princess-names');
 
 console.log(princessNames.random());
 console.log(princessNames.all.join('\n'));
@@ -73,7 +75,7 @@ See [Contributing](CONTRIBUTING.md).
 Developer
 ---------
 
-  * [William Belle](https://github.com/williambelle)
+* [William Belle](https://github.com/williambelle)
 
 License
 -------
