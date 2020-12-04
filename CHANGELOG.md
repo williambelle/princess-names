@@ -1,6 +1,14 @@
 Changelog
 =========
 
+### v4.0.0 / 2020-12-04
+
+  - Drop support for Node < 10
+  - Update and clean dependencies
+  - Test against Node.js 14 and 15
+  - Migrate from Travis CI to GitHub Actions
+  - Migrate from david-dm.org to libraries.io
+
 ### v3.0.2 / 2020-04-09
 
   - Update dependencies
