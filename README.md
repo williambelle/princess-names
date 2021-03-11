@@ -88,5 +88,5 @@ The MIT License (MIT)
 [github-actions-url]: https://github.com/williambelle/princess-names/actions
 [coveralls-image]: https://coveralls.io/repos/github/williambelle/princess-names/badge.svg
 [coveralls-url]: https://coveralls.io/github/williambelle/princess-names
-[librariesio-image]: https://img.shields.io/librariesio/release/npm/princess-names
+[librariesio-image]: https://img.shields.io/librariesio/github/williambelle/princess-names
 [librariesio-url]: https://libraries.io/github/williambelle/princess-names
