@@ -3,7 +3,6 @@ princess-names
 
 [![Build Status][github-actions-image]][github-actions-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
-[![Dependencies Status][librariesio-image]][librariesio-url]
 [![NPM version][npm-image]][npm-url]
 
 Get popular Princess names.
@@ -88,5 +87,3 @@ The MIT License (MIT)
 [github-actions-url]: https://github.com/williambelle/princess-names/actions
 [coveralls-image]: https://coveralls.io/repos/github/williambelle/princess-names/badge.svg
 [coveralls-url]: https://coveralls.io/github/williambelle/princess-names
-[librariesio-image]: https://img.shields.io/librariesio/github/williambelle/princess-names
-[librariesio-url]: https://libraries.io/github/williambelle/princess-names
