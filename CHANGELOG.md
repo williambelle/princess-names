@@ -1,6 +1,13 @@
 Changelog
 =========
 
+### v5.0.0 / 2021-06-24
+
+  - Drop support for Node.js < 12
+  - Update dependencies
+  - Test against Node.js 16
+  - Remove badge dependencies
+
 ### v4.0.0 / 2020-12-04
 
   - Drop support for Node < 10
