@@ -1,6 +1,11 @@
 Changelog
 =========
 
+### v5.0.2 / 2022-08-30
+
+  - Update dependencies
+  - Test against Node.js 18
+
 ### v5.0.1 / 2022-04-06
 
   - Update dependencies
